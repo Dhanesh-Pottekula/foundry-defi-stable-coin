@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.18;
 
-import {DecentralisedStableCoin} from "src/DecentralizedStableCoin.sol";   
+import {DecentralisedStableCoin} from "src/DecentralizedStableCoin.sol";
 import {Script} from "forge-std/Script.sol";
 import {DSCEngine} from "src/DSCEngine.sol";
 import {HelperConfig} from "script/helperConfig.s.sol";
